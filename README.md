@@ -3,7 +3,27 @@
 > A structured framework inspired by database normalization theory for React state management
 
 [![NPM Version](https://img.shields.io/npm/v/5-react-normalization-rules.svg)](https://www.npmjs.com/package/5-react-normalization-rules)
+[![NPM Downloads](https://img.shields.io/npm/dm/5-react-normalization-rules.svg)](https://www.npmjs.com/package/5-react-normalization-rules)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/5-react-normalization-rules.svg)](https://github.com/YOUR_USERNAME/5-react-normalization-rules)
+
+## 📑 Table of Contents
+
+- [What is 5RNF?](#-what-is-5rnf)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [The 5 Rules](#-the-5-rules)
+  - [1RNF: Atomic State](#️⃣-1rnf-atomic-state)
+  - [2RNF: Single Responsibility](#️⃣-2rnf-single-responsibility)
+  - [3RNF: No Transitive Dependencies](#️⃣-3rnf-no-transitive-dependencies)
+  - [4RNF: Normalized Collections](#️⃣-4rnf-normalized-collections)
+  - [5RNF: Context Separation](#️⃣-5rnf-context-separation)
+- [Usage](#-usage)
+- [Examples](#-examples)
+- [Benefits](#-benefits)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
 
 ## 📚 What is 5RNF?
 
@@ -120,6 +140,12 @@ yarn add 5-react-normalization-rules
 pnpm add 5-react-normalization-rules
 ```
 
+**Package:** [5-react-normalization-rules on NPM](https://www.npmjs.com/package/5-react-normalization-rules)
+
+**Peer Dependencies:**
+- React >= 16.8.0 (for hooks support)
+- Zustand >= 4.0.0 (for store examples)
+
 ## 🚀 Usage
 
 ### Using the Normalization Utilities
@@ -215,8 +241,16 @@ MIT © Khaled Salem
 
 **Khaled Salem** - React Architecture Innovator
 
-- Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- GitHub: [@your_github](https://github.com/your_github)
+- 📦 NPM: [@khaledsalem](https://www.npmjs.com/~khaledsalem) *(replace with your NPM username)*
+- 🐙 GitHub: [@khaledsalem](https://github.com/khaledsalem) *(replace with your GitHub username)*
+- 🐦 Twitter: [@khaledsalem](https://twitter.com/khaledsalem) *(replace with your Twitter username)*
+
+## 🌟 Show Your Support
+
+If you find this project useful, please consider:
+- ⭐ Starring the [GitHub repository](https://github.com/YOUR_USERNAME/5-react-normalization-rules)
+- 📦 Sharing on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%205%20React%20Normalization%20Rules%20-%20Database%20normalization%20principles%20for%20React%20state!&url=https://www.npmjs.com/package/5-react-normalization-rules)
+- 💬 Spreading the word in your team/community
 
 ---
 
