@@ -242,7 +242,7 @@ MIT © Khaled Salem
 **Khaled Salem** - React Architecture Innovator
 
 - 📦 NPM: [@khaledsalem](https://www.npmjs.com/~khaledsalem)
-- 🐙 GitHub: [@khaledsalem](https://github.com/khaledM-salem) *(replace with your GitHub username)*
+- 🐙 GitHub: [@khaledsalem](https://github.com/khaledM-salem)
 
 ## 🌟 Show Your Support
 
