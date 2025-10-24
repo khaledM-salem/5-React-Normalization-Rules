@@ -1,0 +1,57 @@
+{
+  "name": "5-react-normalization-rules",
+  "version": "1.0.0",
+  "description": "A structured framework inspired by database normalization theory for React state management",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "test": "jest",
+    "lint": "eslint src --ext .ts,.tsx",
+    "format": "prettier --write \"src/**/*.{ts,tsx}\"",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "react",
+    "state-management",
+    "normalization",
+    "zustand",
+    "hooks",
+    "typescript",
+    "react-patterns",
+    "state-architecture"
+  ],
+  "author": "Khaled Salem",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khaledM-salem/5-react-normalization-rules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khaledM-salem/5-react-normalization-rules/issues"
+  },
+  "homepage": "https://github.com/khaledM-salem/5-react-normalization-rules#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "zustand": ">=4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0",
+    "rollup": "^3.0.0",
+    "@rollup/plugin-typescript": "^11.0.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "typescript": "^5.0.0",
+    "tslib": "^2.6.0"
+  }
+}
