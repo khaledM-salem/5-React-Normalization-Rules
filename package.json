@@ -1,6 +1,6 @@
 {
   "name": "5-react-normalization-rules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A structured framework inspired by database normalization theory for React state management",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
