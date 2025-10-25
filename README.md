@@ -343,14 +343,13 @@ MIT © Khaled Salem
 
 **Khaled Salem** - React Architecture Innovator
 
-- 📦 NPM: [@khaledsalem](https://www.npmjs.com/~khaledsalem) *(replace with your NPM username)*
-- 🐙 GitHub: [@khaledsalem](https://github.com/khaledsalem) *(replace with your GitHub username)*
-- 🐦 Twitter: [@khaledsalem](https://twitter.com/khaledsalem) *(replace with your Twitter username)*
+- 📦 NPM: [@khaledsalem](https://www.npmjs.com/~khaledsalem)
+- 🐙 GitHub: [@khaledsalem](https://github.com/khaledM-salem)
 
 ## 🌟 Show Your Support
 
 If you find this project useful, please consider:
-- ⭐ Starring the [GitHub repository](https://github.com/YOUR_USERNAME/5-react-normalization-rules)
+- ⭐ Starring the [GitHub repository](https://github.com/khaledM-salem/5-react-normalization-rules)
 - 📦 Sharing on [Twitter](https://twitter.com/intent/tweet?text=Check%20out%205%20React%20Normalization%20Rules%20-%20Database%20normalization%20principles%20for%20React%20state!&url=https://www.npmjs.com/package/5-react-normalization-rules)
 - 💬 Spreading the word in your team/community
 
